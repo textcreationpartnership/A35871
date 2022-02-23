@@ -1,0 +1,639 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between Dick and Tom, concerning the present posture of affairs in England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35871</idno>
+            <idno type="STC">Wing D1306</idno>
+            <idno type="STC">ESTC R19218</idno>
+            <idno type="EEBO-CITATION">11759671</idno>
+            <idno type="OCLC">ocm 11759671</idno>
+            <idno type="VID">48646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35871)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48646)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 488:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between Dick and Tom, concerning the present posture of affairs in England</title>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48646:1"/>
+            <p>A DIALOGUE BETWEEN Dick and Tom; Concerning the Preſent Poſture of Affairs IN ENGLAND.</p>
+            <q>
+               <p>Eone impudentiae ventum eſt?</p>
+               <bibl>
+                  <hi>Terent.</hi>
+               </bibl>
+            </q>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>Licenſed,</p>
+                     <closer>
+                        <date>
+                           <hi>January</hi> 18, 1688/9.</date>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed, and are to be Sold by <hi>Randal Taylor</hi> in <hi>Amen-Corner,</hi> MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:48646:2"/>
+            <pb n="3" facs="tcp:48646:2"/>
+            <head>A DIALOGUE BETWEEN <hi>Dick</hi> and <hi>Tom,</hi> &amp;c.</head>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>HOneſt <hi>Tom,</hi> well met; faith I'm very glad to ſee thee; my heart leapt within me as ſoon as I encountred thee.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I know not what you mean by your leaps and counters; you <hi>Londoners</hi> are ſo full of Complements which coſt you nothing: but will you give that honeſt <hi>Tom</hi> (as you call him) a Pot of Ale this cold froſty Morning?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>With all my heart—We are but a little way from the Cock in <hi>Amen-Corner,</hi> where I'll give thee ſuch a Cup of Liquor, as ſhall exceed <hi>Darby</hi> and <hi>Nottingham.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Prethee make haſt then, for I've a great deal of buſineſs to do before I go out of Town.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>We're there already, bleſs us! here's a good Fire too—Come, heart of Oak, here's to thee, remembring all our Friends in the Country.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I'll pledge you heartily, but I'm ſure ſome of our Neighbours ha'n't recover'd the fright they were in t'other day.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>What fright, in the name of Wonder?</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why, there came a couple of Fellows (who had almoſt kill'd their Horſes for haſt) into our Town, and told us the <hi>Iriſh</hi>
+                  <pb n="4" facs="tcp:48646:3"/>were but twelve Miles from us; killing Men, Women and Children, which ſo ſcar'd us that in a quarter of an hour, our Market-place and Streets were fill'd, every one appearing in Arms; the Women with Spits, Fireforks, and ſuch Kitchin Artillery, expecting the Foe, but none appearing, we went to our homes; yet the Children were ſo frighted with the Alarm, that tell them the <hi>Iriſh</hi> are a com<g ref="char:EOLhyphen"/>ing, and it ſcares 'em worſe than Raw-head, and Bloody-bones.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>'Twas much in that manner with us in the City, which caus'd ſo great a conſternation in ſome timorous people, that they were afraid to go to bed for ſeveral nights, leaſt they ſhould wake in the morning and find their Throats cut.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>But all this while we are wide of the matter; Prethee tell me a little News, for I've a huge mind to know how things go.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>That was a queſtion fit to be ask'd four months ago; but now 'tis as idle as the Fellow that held his Watch in his hand, and ask'd his Friend what a Clock 'twas.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why, is there no News ſtirring?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>News ſtirring—why, <hi>Tom,</hi> we have nothing elſe; we have <hi>Gazettes, Intelligences, Courants, Mircuries, Orange Gazettes,</hi> &amp;c. which has ſo inrich'd the <hi>Hawkers,</hi> that 'tis believ'd they will be incorporated, and made one of the City Companies. Indeed a little after the Padlock Proclamation, News was as ſcarce as Roſemary after the great Froſt, but now men have liberty of tongue, as well as li<g ref="char:EOLhyphen"/>berty of Conſcience; 'tis grown the ſtaple Commodity of the times.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>But ſtill you let me hear none.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>What would'ſt thou have me tell thee, that the King is in <hi>France,</hi> the Lord Chancellor in the <hi>Tower,</hi> ſome Jeſuits in <hi>Newgate,</hi> and—</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>No more, no more, —all this is old News.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>That I knew, for News like Fiſh ſtinks in three days: In ſhort, <hi>Tom,</hi> he muſt have better Lungs than I that can tell you the variety of Reports, which occurr in <hi>London</hi> in one day.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I heard <hi>Ireland</hi> was in ſad condition.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Moſt certainly, <hi>Tyrconnel</hi> and his booted Apoſtles are re<g ref="char:EOLhyphen"/>ſolved to live and die in Defence of Popery; but leaving them to the determination of God's Providence, and the ſucceſs of the Prince's Arm's, which will ſpeedily be ſent to reduce them, let us a
+<pb n="5" facs="tcp:48646:3"/>little conferr Notes about the Preſent Poſture of the Engliſh Affairs.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Lord! you know I'm no Stateſman.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Nor is every man in a Ship a Pilot, but he that in a Storm dextrouſly manages a ſingle Cable, may be as ſerviceable as he that guides the Rudder.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>If you mention a ſyllable of Stockeraſy, or Mockraſy, I ſhall not be able to ſay a word more.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Not I ſincerely, we will not entangle our diſcourſe with any Inquiries into the ſeveral Modes of Government, but confine our thoughts to the preſent Juncture. Give me leave therefore to ask you what you thought of the Complexion of the Times, before there was the leaſt whiſper about the Prince of <hi>Orange</hi>'s coming into <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why, I thought, as other people did, that Liberty of Con<g ref="char:EOLhyphen"/>ſcience was a good thing; that the King could do no wrong; that notwithſtanding ſome ill things, the King did not deſign to Intro<g ref="char:EOLhyphen"/>duce Popery.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>O Credulity, Credulity whither wilt thou carry men? why, <hi>Tom,</hi> 'twas that undid us all, our Grandmother <hi>Eve</hi>'s aptneſs to believe the Serpent, caus'd her to taſte the fatal Apple, and all her poſterity have catch'd her diſtemper.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why, you would not have poor country <hi>Tom,</hi> have as long a head as a Privy-Councellor?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>But I hope an honeſter than ſome of them had. The deſign to introduce Popery in this Nation formerly, was carried on with artifice and ſecrecy, but now they were ſo open in their attempts that every project ſeemed to carry its countermine a long with it, and 'tis time to arm, when the general cry is, <hi>Sampſon</hi> the <hi>Phili<g ref="char:EOLhyphen"/>ſtins</hi> are upon thee.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I read ſomewhere lately that misfortunes will come, or they will not come; if they will not come, 'tis nonſenſe to trouble our ſelves about what will never be; but if they will come, is Miſery ſo lovely an object as to be met half way? or ſomething to that purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Excellent Philoſophy: but ſtill prevention is no out-of-faſhion virtue—Had the Proteſtants in <hi>France</hi> ſuſpected the
+<pb n="6" facs="tcp:48646:4"/>Treachery, think you they would have come to that fatal Wedding in <hi>Paris,</hi> wherein ſo many Thouſands of them were butcher'd?</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>No certainly— but who would have ſuſpected things in <hi>England</hi> would have ever come to that paſs? indeed the ſending the Biſhops to the <hi>Tower</hi> did a little diſgruntle us Country People.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>There's no Man certainly can think the Garret a ſafe place to ſleep in, when the Foundation of the Houſe totters: And none but a Man over-run with Partiality could ſuppoſe the Superſtru<g ref="char:EOLhyphen"/>cture would long continue, when the Pillars were taken down. But ſtill you give me no Anſwer to my Queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>You Catechize me ſtrangely; theſe Riddles poſe me ex<g ref="char:EOLhyphen"/>treamly.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Shall I give you my Thoughts upon the Matter—Com<g ref="char:EOLhyphen"/>mon Fame has Recorded us <hi>Engliſh</hi> to be a People extreamly jea<g ref="char:EOLhyphen"/>lous and ſuſpicious of our Rights and Privileges, generally diſtruſtful of our Superiors, and ſomewhat uneaſy under any ſort of Govern<g ref="char:EOLhyphen"/>ment; but as the Devil is not ſo ugly as he is painted, neither is all that part of the Character true; Our Laws and Conſtitutions we may without Vanity affirm to be the beſt in the World, if we reſpect either the Honour of the Prince, or the Safety of the People: The former's Prerogative, and the latter's Privileges, are ſo determined by Legal Bounds, that while they ſo continue there muſt needs be an admirable Harmony in Government; but when either of theſe are ſtretch'd beyond their due Limits, the whole is put out of Frame; but when thoſe of the Long-Robe (I mean the Scandals of it) ſhall either by the Frowns or Smiles of their Prince, or by the Allurements of Intereſt, give him a Power of Diſpenſing with Laws, rendring their fellow Subjects juſt ſo many Aſſes to be led or driven according to the Humour of the Supream Governor: He that is of ſo cold a Temper as not to reſent this in ſome man<g ref="char:EOLhyphen"/>ner, ought to be rank'd with the dulleſt of <hi>Iriſhmen,</hi> a Creature whoſe Soul ſerves only inſtead of Pepper and Salt to keep his Body from ſtinking, unworthy the Title of Man, and unfit for the mean<g ref="char:EOLhyphen"/>eſt Converſation.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Hold, Sir, hold, if my Lord Chief Juſtice ſhould over-hear you now, he'd lay you up in <hi>Lob</hi>'s Pound for this.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>I ſhould be glad to ſee his Lordſhip; I know the Gentle<g ref="char:EOLhyphen"/>men
+<pb n="7" facs="tcp:48646:4"/>of <hi>Maudlin</hi> College are uneaſy till they have made him ſome greatful Returns for his laſt Viſit to them.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Was not that unlucky Buſineſs call'd, Purging the College?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Yes: It was a Purge with witneſs, to void the Bowels, and retain the Excrements; no doubt but the other Colleges muſt have undergone the ſame Courſe of Phyſick, had not the Revolution of time produc'd a new Scene of things.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Certainly the Papiſts were bewitch'd when they gave his Majeſty ſuch curſed Counſel.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Without queſtion they were infatuated; but to uſe your Country Proverb, They were reſolved to make Hay while the Sun ſhone. I am perfectly loſt in Wonder when I think ſeriouſly on this Revolution. To us that know it, it looks like a Dream, but to Po<g ref="char:EOLhyphen"/>ſterity it muſt certainly ſeem a Romance; and the Hiſtories of <hi>Don Quixot,</hi> or <hi>Garagantua</hi> will ſeem the more authentick Relations of the Two, that all the Politicks of ſeveral Years laſt paſt, ſhould be unravelled in Three Months; certainly it argues an exceſs of good Nature, to have <hi>Maudlin</hi> College reſtored, the Biſhop of <hi>London</hi>'s Suſpenſion taken off, the ſeveral ancient Charters given again to their reſpective Corporations, and all this done on the ſudden. Lord! how unconſtant a Creature is Man; to Day all Anger, Fury and Reſentment; to Morrow, all Candour, Beni<g ref="char:EOLhyphen"/>guity, Kindneſs, Love and Condeſcention.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why, verily, what you ſay is true enough; we had as ho<g ref="char:EOLhyphen"/>neſt a Gentleman for a Mayor as ever broke a piece of Bread, but upon the new Regulation of our Town, he was turned out, and a Papiſt put in his Place; on the ſudden our Charter comes, and then honeſt Mr. <hi>H</hi>— was Mayor again, though it went againſt his Stomach to be kick'd up and down like a Foot Ball.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Publick Officers (honeſt <hi>Tom</hi>) have lately been like Ta<g ref="char:EOLhyphen"/>vern Clocks, made to ſtrike Eight or Nine when it has been Three or Four in the Morning, according to the pleaſure of the Vintner, who has been ſure to get by ſuch deluded Company. 'Twas a happy time when the Entrance to the Temple of Honour was only by the Gate of Merit; then Men of Learning, Senſe and Integrity, were thought the ſitteſt Companions for a Prince; but now the humble Grin, the ſawning Leer, the Spaniel-like Cringe, are in this Age practiſed, as the only way to Preferment.</p>
+            </sp>
+            <pb n="8" facs="tcp:48646:5"/>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>When I was a School-boy I heard of one <hi>Dogenes,</hi> (I think they call him) a Surly old Cur, that always lived in a Tub. Now had that Coxcomb complemented <hi>Alexander,</hi> 'tis a Thou<g ref="char:EOLhyphen"/>ſand Pound to a Cherry-ſtone, but he had been preferred.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>I will not pretend to Vindicate the <hi>Cynick,</hi> his Humour was nothing but his Pride; but believe me, I had rather be honou<g ref="char:EOLhyphen"/>rably poor, than villainouſly rich.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>But there's one thing I wonder at, that his Majeſty ſhould again retire after his kind Reception to <hi>Whitehall,</hi> after his firſt withdrawing.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>That's a Catholick Riddle I am not able to fathom; his ſo ſudden departure occaſioned a kind of <hi>Interregnum,</hi> which the Mobile being ſenſible of, committed thoſe Outrages of Rapine and Violence on the <hi>Spaniſh</hi> Ambaſſadors Reſidence and Chapel, St. <hi>John</hi>'s, the <hi>Franciſcans</hi> Chapel in <hi>Lincolns-Inn-Fields, Bucklersbury, Lime-ſtreet,</hi> &amp;c. Though he muſt be degenerated from common Humanity, that will juſtifie any ſuch baſe and villainous Actions.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>The ſame was done in ſeveral Parts of the Country, on the Houſes and Chapels of Papiſts, but honeſt <hi>Tom</hi> never lik'd ſuch violent Doings.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Spoke like thy ſelf. I heartily wiſh our Engliſh Factories beyond Sea do not ſuffer ſeverely for the Inſolence of a few Raſcal<g ref="char:EOLhyphen"/>ly Villains: Here, you know, Revenge magnifies every thing be<g ref="char:EOLhyphen"/>yond its due proportion; undoubtedly Relations from <hi>England</hi> to Foreign Parts will be ſtuffed with a Thouſand Falſities, and that will be reſented as the Act of a whole City, which was only the Fury of an Ungovernable Rabble.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>But ſince he has left us, who is our Governor?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>There was a time in <hi>Iſrael</hi> when every Man did what was right in his own Eyes— But Heaven be praiſed, 'tis not ſo with us, for the Lords Spiritual and Temporal being aſſembled did una<g ref="char:EOLhyphen"/>nimouſly deſire the Prince of <hi>Orange</hi> to take upon him the Govern<g ref="char:EOLhyphen"/>ment Civil and Military, till Matters could be ſettled in a Free Con<g ref="char:EOLhyphen"/>vention to meet on the <hi>22d.</hi> of <hi>January.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>But after all; Who is this Prince of <hi>Orange,</hi> whoſe Name makes ſuch a noiſe in the World, we Country Polks know no other of him than that he Married the King's Daughter, when he was Duke of <hi>York?</hi>
+               </p>
+            </sp>
+            <pb n="9" facs="tcp:48646:5"/>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>I will not pretend to give you his Character after the life, you muſt be content with ſome rough Draught. In ſhort, he is de<g ref="char:EOLhyphen"/>ſcended from the illuſtrious Houſe of <hi>Naſſaw,</hi> a name that ſhines in Hiſtory; he had all the Education of a high-born Prince; early he became acquainted with the Rules of Government, and practiſed them with that ſucceſs, as to be made Stadtholder of <hi>Holland.</hi> The <hi>Dutch</hi> you muſt know are a people jealous of their Liberties to the laſt Degree; and did not the Prince carry it with the higheſt mo<g ref="char:EOLhyphen"/>deration, that wary people would ſoon expreſs their uneaſineſs un<g ref="char:EOLhyphen"/>der his adminiſtration. He is one adorned with all the Virtues that are requiſite to his high Birth and Character; his Juſtice is re<g ref="char:EOLhyphen"/>markable, his Prudence inimitable, his Temperance extraordinary, his Courage and Conduct exceed expreſſion; and all his other Virtues which wait upon theſe forementioned, are exalted to the higheſt degree that humane nature is capable of, in the practice of all which he is ſo very happy, that his worſt Enemies could never fix a ſcandal upon him.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>No—was he not ambitious when he came with an armed Force to Invade <hi>England?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Hold a little there, good over-haſty <hi>Tom,</hi> we muſt ſerve your Queſtion, as Parſons do their Texts; take it to pieces, and firſt, for the Ambition you ſeem to charge him with—</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Lord, Sir, I am ſorry I ſaid that word; I'm afraid you'll go and inform againſt me; I have a Wife and four ſmall Children, and if you ſhou'd—</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Prethee, honeſt <hi>Tom,</hi> never fear it, what, betray my Friend? I'd cut my Throat as ſoon; no, <hi>Tom,</hi> my deſign is only to undeceive you. 'Twas not Ambition brought him hither, but a juſt Zeal for the Defence of the undermin'd Proteſtant Religion in <hi>England,</hi> &amp;c. and to call it an Invaſion is as great a piece of Lunacy, as if I ſhould invite a neighbour to defend my houſe againſt ſuſpected Robbers, and when he was entred, to call him the Thief.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Then was the Prince of <hi>O.</hi> invited hither?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Moſt infallibly; think you elſe that with a ſmall handful of men (in compariſon of the King's Army) he could have entred <hi>England</hi> ſo quietly?</p>
+            </sp>
+            <pb n="10" facs="tcp:48646:6"/>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why, truly, I think not, but is it true that there are ſe<g ref="char:EOLhyphen"/>veral <hi>Roman</hi> Catholicks in his Army that came over with him on his deſign?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>'Tis ſo reported, and by many believ'd, for let that Church talk of Unity till the ſound of the laſt Trumpet, they are as envious againſt one another, as 'tis poſſible, and like <hi>Switzers</hi> will fight for any that will but pay them, though 'tis ſomewhat difficult to truſt them.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why, does the <hi>French</hi> King fight againſt <hi>Roman</hi> Catho<g ref="char:EOLhyphen"/>licks?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Undoubtedly—his Ambition knows no difference between Catholicks and Proteſtants, elſe he would never have fallen out with his Holy Father the Pope, but let's leave him to the ſcourge of the Emperor, and return to our former Diſcours'd of the Prince of <hi>Orange.</hi> You have ſeen, I ſuppoſe, all his Declarations.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Yes, I have, and read'em; and if he is but as good as his word, then—</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>You're ſtill at your ifs; why, has he not given all the de<g ref="char:EOLhyphen"/>monſtrations imaginable of the ſincerity of his intentions, by ex<g ref="char:EOLhyphen"/>poſing his Perſon to the dangers of Sea and Land, turning out all Popiſh Officers through the Kingdom, and that he may not rely wholly upon his own wiſedom and conduct, or the advice of a few, has by his Circular Letters Summon'd a Convention to meet this Month at <hi>Weſtminſter,</hi> there to debate what is fitteſt to be done in this critical Juncture. If theſe reaſons are not convincing to an up-prejudic'd underſtanding, let me live all the reſt of my life like a fool, and when dead be buried by <hi>Jack Adams.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I am convinc'd, yet, but juſt now you blam'd me for my eaſineſs of belief, and now you chide me for my ſuſpicion.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Dear <hi>Tom,</hi> ben't angry, and we ſhall quickly come to a right underſtanding. But prethee, what greaſe Paper is that you are fumbling between your Fingers.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I don't know well what it means; a Woman dropt it juſt before me, I took it up and call'd her to give it her, but either ſhe did not hear me, or if ſhe did hear me ſhe would not hear me, but went on as faſt as ſhe could.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Let's ſee't, <hi>Tom.</hi>
+               </p>
+            </sp>
+            <pb n="11" facs="tcp:48646:6"/>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>There 'tis, you are more Book-learn'd than I, but I believe it is ſome Quack Doctor's-bill, as you call'em.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Yes, 'tis a Quack's-Bill, but there are State-Mountebanks, as well as Pretenders to Phyſick, and the miſchief on't is the lat<g ref="char:EOLhyphen"/>ter give a thouſand Bills before they meet with one Patient, but theſe ſort of Bills poiſon almoſt every body that reads 'em.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>For my part I have not read it, but if it be ſo dangerous as you ſay, tear it in pieces out of hand.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>No, No, I have my Antedotes about me; Heaven be prais'd, I'll ingage it ſhall do neither of us harm.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why, do you underſtand Phyſick and Strology?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>To trifle with you no longer, <hi>Tom,</hi> before I dread it I muſt tell you ſomething by way of Preface.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Proceed then.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Why, <hi>Tom.</hi> there are a ſort of men in the World that can ſee farther into a Mill-ſtone than he that pecks it; people of ſuch ready intellingence, they'll tell you the preciſe Minute that the old Gentleman at <hi>Rom</hi> cuts his Corns, a week before he does it. Tell you of Maſſacres, Devaſtations, and other Calamities a long time before they happen, and theſe are thoſe kind of cattle that dropp'd this Bill, whoſe deſign is only t amuſe and frighten People with ſears and jealouſies, of what perhaps will never be; cauſing them like people in falſe alarms of Fire, to break their Necks out at window to a void being burnt—The Title on't is—<hi>Con<g ref="char:EOLhyphen"/>ſiderations propos'd to the Electors of the enſuing Convention</hi> (that's the Text,) now let's hear the Application, an Uſe of inſtruction no doubt, <q rend="inline">Gentlemen, God Almighty has now put it into your hands, either utterly to ruin, or perpetually to ſettle three Kingdoms, and with them the Proteſtant Religion in general, by the choice you ſhall make of men to Repreſent you in the enſuing Conven<g ref="char:EOLhyphen"/>tion, (very good;) you never yet enjoy'd (and perhaps never may again) ſuch another opportunity of making your ſelves and your poſterity happy; you choice being now abſolutely free, without any force, or hazard, as formerly.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why, is not all this very true? methinks the Paper ſpeaks honeſtly.</p>
+            </sp>
+            <pb n="12" facs="tcp:48646:7"/>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>You never heard a Mountebank bawl out upon the Stage —Gentlemen, here in this Glaſs is a moſt infallible Poiſon, that will rid you of your lives in half an hour, but he ſincoths you up with, Gentlemen, here's a rich Cordial, Prepar'd after the Receipt of the Duke of <hi>Florence;</hi> a ſingle drop of it in the mouth of a ſick Perſon, has recover'd him, when all Doctors and Friends have given him over; by this artifice you we drawn in to buy his Poiſon'd Stuff, while behind the Curtain he has the pleaſure to laugh at you. So 'tis with this Paper; you little think what malignity comes after this ſweetning Complement: but I'll read on, and now prepare your Ears for as much Malice as ever was crouded in a dozen Lines— <q rend="inline">Conſider, therefore, they ought not to be choſen that ridicul'd the Popiſh Plot, and promoted ſeveral Proteſtant Sham-ones; that did what in them by so Surrender your Charter, or which is all one, ſubmit to the King's Regulation of it: And diſcountenanc'd and threatned all that would not give up the Rights of the City as well as themſelves; upbraiding them with the odious names of Enemies to the Government; that baffled you in your Choice and Suffrage, and made many worthy Citizens Rioters, for aſ<g ref="char:EOLhyphen"/>ſerting their Rights therein; that ſwore illegal Sheriffs, by force of arms; that contrary to the known Rules of Common-Coun<g ref="char:EOLhyphen"/>cils, pretended to repeal all the Proceedings of twenty years, without ſo much as reading any act thereof (except the Titles) or referring them to any Committee, and abſolutely refuſing the negative queſtion, though deſir'd, and that in a word, did to the utmoſt in their ſphere endeavour to promote the arbitrary deſigns of a Popiſh Court, to rob all freeborn En<g ref="char:EOLhyphen"/>gliſhmen of their inherent Rights and Privileges (Sir <hi>W. P.</hi> then Lord Mayor:)</q> There's enough for a taſte. The next Paragraph re<g ref="char:EOLhyphen"/>lating to Sir <hi>P. R</hi>— I omit that Gentleman, having ſuffered ſufficiently by the Court Party, as the people call it; now to the Concluſion— <q rend="inline">But rather chooſe ſuch who in the Parliaments of King <hi>Charles</hi> the Second, oppos'd Popery and arbitrary Po<g ref="char:EOLhyphen"/>wer, in the face of Danger, and will now in all probability ex<g ref="char:EOLhyphen"/>poſe themſelves to the greateſt hazards, to eſtabliſh your Religi<g ref="char:EOLhyphen"/>on, Laws and Liberties</q>—Here's a heavy charge, but as little prov'd as poſſible, but granting all to be true, is this a time, to
+<pb n="13" facs="tcp:48646:7"/>rip up old ſtories, while this Libeller little conſiders how the Court influenc'd all thoſe violent proceedings which then happen'd.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>But, ought not Men to be told of their faults?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Yes, But not in ſuch a manner; yet without any manner of Reflection, give me leave to ſpeak it, had ſome of theſe criminal Gentlemen, pointed at in the Libel, been Elected for the City of <hi>London,</hi> they might perhaps have ſerved their Country with as much integrity as 'tis believed the four choſen Members will do in the pre<g ref="char:EOLhyphen"/>ſent <hi>Convention;</hi> the City of <hi>London,</hi> in all publick Tranſactions, has always been the leading Card, moſt Corporations following her Example: but 'tis the buſineſs of ſome people to ſow the Seeds of Diſſention, when there is the greateſt occaſion for Unity. Mens faults are lookt upon with a Magnifying Glaſs, while their merits or deſerts are ſeen with the wrong end of the Proſpective; beſides, ſhould we once give ſpace for Recriminations, what Diviſion of Men is ſafe? The Papiſt hates to hear of the <hi>Iriſh</hi> or <hi>French</hi> Maſſa<g ref="char:EOLhyphen"/>cres, the Roundhead cares not to hear the Exploits of 41 men<g ref="char:EOLhyphen"/>tioned.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Nor the violent Church-man of Paſſive Obedience.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Very merrily rejoin'd <hi>Tom;</hi> but were there a mutual for<g ref="char:EOLhyphen"/>bearance, and an extenſive Love and Charity, the Times would be much better; what do you think is the intent and real deſign of the Paper laſt mentioned?</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>
+                  <hi>To ſow Seeds of Diſſention;</hi> I make uſe of your own words, you ſee I'm familiar.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>But do you ſee no further deſign?</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Not that I can perceive.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Then I'll tell you, 'tis undoubtedly deſign'd to under<g ref="char:EOLhyphen"/>mine the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>How can that be?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Why, thus; Theſe Gentlemen, and others mentioned, are of the Communion of that Church, they have done ſuch and ſuch things, truſt 'em no more; if they make the Majority in the Con<g ref="char:EOLhyphen"/>vention, then farewel <hi>Liberty of Conſcience;</hi> and you will again be plagu'd with Informers and Conſtables, to moleſt you in your moſt peaceable Meeting, your Aſſembling together will be call'd a Riot, your Perſons dragg'd to Priſons, and your Goods taken from you,
+<pb n="14" facs="tcp:48646:8"/>your Families undone, <hi>&amp;c.</hi> theſe are the things you ought to fear; and now it is put into your hands to prevent them, therefore now or never—Is not this a fearful Scene to a timorous fancy? whereas, with the ſame reaſon, they may ſuſpect an Army of <hi>French</hi> ſhould come croſs the Narrow-Seas on Horſe-back, as any of theſe ill-grounded Suſpicions.</p>
+            </sp>
+            <sp>
+               <speaker>Toms.</speaker>
+               <p>Why, Sir, though 'tis a little ſmother'd, think you the Church of <hi>England</hi> has left her perſecuting Spirit?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>'Tis the higheſt uncharitableneſs in the World to charge the whole Community for the faults of a few: Little do you think that that ſevere ſtorm which fell upon the Diſſenters in 83 and 84, was occaſioned by Popiſh Councils, and hatcht at the Court; the more pious and wiſe of the Church, did then, and do ſtill diſclaim ſuch Proceedings; and I durſt pawn my Life for it, that this Age, nor the next, will ever ſee any ſuch Actions encourag'd by the Church of <hi>England;</hi> but if Ambition, mask'd with a pre<g ref="char:EOLhyphen"/>tended holy Zeal for the Glory of Chriſt, will ſtill put the Diſſenters upon ruining that Church, we may be ſuppos'd (not<g ref="char:EOLhyphen"/>withſtanding the often retorted Doctrine of Paſſive Obedience) not tamely to ſtand ſtill, and ſee the Church deſtroy'd ſecond time, by thoſe who might quietly enjoy the Lioerty of their own Conſcience, provided they diſturb not ours; thoſe juſt fears and ſuſpicions of Popery, are now vaniſht to that degree, that the very Name is become a by-word, and were we but once united, we need not fear the moſt cloſe laid attempts of the Red-Letter'd Tribe.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I hope we are ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>I wiſh ſo too; but when Papers are diſpers'd about, tend<g ref="char:EOLhyphen"/>ing to the villifying of the Church of <hi>England,</hi> and people whiſper in Coffee-houſes, they hope to ſee a Common-wealth again; what muſt we gueſs but that the ruine of the Church is aim'd at: Come, come, <hi>Tome,</hi> theſe are not the Methods to be taken at this time of day, the Prince, though Educated a <hi>Calviniſt,</hi> yet retains ſo great a ve<g ref="char:EOLhyphen"/>neration for the Church, by his daily Devotions at it, and receiving the Sacrament in that Communion, which are undeniable proofs of his reſpect and love to it, that may convince any impartial under<g ref="char:EOLhyphen"/>ſtanding of his firm and ſincere Affection for it; yet is he civil to the Diſſenters, who Complemented him in a Body upon his
+<pb n="15" facs="tcp:48646:8"/>arrival at St. <hi>James</hi>'s, aſſuring them his Protection; and no doubt, but a Parliament, when call'd, will ſettle <hi>Liberty of Conſcience</hi> with its due limits; for let me tell you, the late grant by the King, was only a ſpecious pretence to wheedle you into a tender opinion of the Catholick Religion, and that a Popiſh King was not ſo for<g ref="char:EOLhyphen"/>midable a Creature; this you wee to enjoy no longer than till things were ripe for execution the <hi>Romans</hi> making uſe of you (pard<g ref="char:EOLhyphen"/>oning the rudeneſs of the Compariſon) as the Monkey did of the Cats-foot, only to pull the Cheſnut out of the fire; for give the Jeſuit but even ground, and he'll quickly throw you: One would think, that a diſcerning inquiſitive Nation, as ours is, ſhould be no longer gull'd with pretences, but really ſee our own Intereſt; for if it is put into our hands to get wiſdom, and we have no heart to it, 'tis juſt with Almighty God to deliver us up to our own folly, and our Poſterity, may with tears, reflect on the happy opportu<g ref="char:EOLhyphen"/>nity loſt by their Fore-fathers.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I remember, about four year ago, when the great Turk Beſieg'd <hi>Vienna,</hi> (by which you may know I read <hi>Gazettes</hi> ſome<g ref="char:EOLhyphen"/>times) 'twas a hot talk in our Country, whether 'twere not better to live under the Turks, who gave <hi>Liberty of Conſcience,</hi> than under the Papiſt, who would allow no ſuch thing—</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>By which, I gueſs you would inferr, that your darling Liberty granted you (though with deſign) by the Papiſts, will not be continued by the Church of <hi>England,</hi> when the Reins of Go<g ref="char:EOLhyphen"/>vernment fall into her hands.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>The very ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Some perſons have been very buſie to give you a wrong notion of things; can the Compariſon any ways correſpond? is the feigned friendſhip of the Church of <hi>Rome</hi> ſo indearing, as to make you forget all her former Cruelties? or do the late ſeveri<g ref="char:EOLhyphen"/>ties, ſaid to be done by the Church of <hi>England,</hi> cauſe ſuch deep Impreſſions in you Memories, as to make you diſclaim all friend<g ref="char:EOLhyphen"/>ſhip with her; certainly your minds are ſtrangely vitiated to de<g ref="char:EOLhyphen"/>light more in the deſigning ſmiles of a proſtituted Harlot, than in the endearments of a chaſt, though injured Spouſe.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>As you ſay, my Head is fill'd with notions, you would therefore do me a ſingular kindneſs to inform me what you mean, when you ſay the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <pb n="16" facs="tcp:48646:9"/>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>By the Church of <hi>England,</hi> I underſtand that community of Chriſtians profeſſing the Faith of Chriſt in theſe Kingdoms of <hi>Great Britain</hi> and <hi>Ireland,</hi> freed from the dregs of Popiſh ſuperſtition and idolatry; not that I would have you think it owes its Birth to <hi>Henry</hi> the Eighth, or is a Religion form'd by an Act of Parliament, but following the methods of the beſt Fathers and Primitive Chri<g ref="char:EOLhyphen"/>ſtians—But of this no more; this Church, ſo fam'd for its Piety, Order, Decency and Diſcipline, the glory of the Reform'd, and envy of the <hi>Romiſh</hi> Religion, was never without its enemies: But not to rip up old ſtories, or recriminate what at this day is better forgotten; I will at preſent confine my Diſcourſe to her behaviour ſince the Acceſſion of King <hi>James</hi> the Second to the Crown.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Vaith, Sir, your a parlous fellow at Hiſtory; our Mayor can talk of nothing but what they did in Queen <hi>Elizabeth</hi>'s days.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Truly, <hi>Tom,</hi> I ſhould be glad to add any thing to your knowledge, though I am ſenſible 'twould edify much more to talk with you concerning what price Cattel bear, or how Corn went laſt Market-day at St. <hi>Albans.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Every thing in its ſeaſon, as the Woman ſaid when ſhe boil'd Thiſtles inſtead of Artichokes.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Then I'll begin; How induſtrious the C. of <hi>E.</hi> was to prevent the Bill of Excluſion, I preſume you are not ignorant: When King <hi>Charles</hi> the Second died, and his Brother came to the Throne, all people were big with expectation to ſee how the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> would behave her ſelf, having a Popiſh Prince to govern her, relying upon what he ſaid at his firſt coming to Council, and his often repeated promiſes to maintain her; the Preſs and Pulpits echoed with praiſes of <hi>James</hi> the Juſt, but alas how quickly was the Scene changed, and the ſwelling hopes of the Church turn'd into juſt fears of her Diſſolution? the Biſhop of <hi>London</hi> ſuſpended; <hi>Magdalen</hi> College illegally taken from the rightful Poſſeſſors; Perſons of ſcandalous Lives, and more ſcandalous dulneſs, preferr'd to Fellowſhips and Places in both Univerſities; a High Commiſſion erected; the Biſhops ſent to the Tower, for delivering a Petition, which by abus'd and wreſted Law muſt be called a Libel; yet after all ceaſed ſhe not to go on in her exemplary Loyalty; but as
+<pb n="17" facs="tcp:48646:9"/>the Apoſtle ſpeaks in another eaſe, <hi>was patient in ſuffering, continuing inſtant in Prayer;</hi> never heard to complain, but ſuffering all with a moſt Chriſtian Courage, relying wholly on the wiſe Provi<g ref="char:EOLhyphen"/>dence of that God that never fail'd to hear her in diſtreſs; and the more to afflict her, endeavours were us'd to ſeduce Perſons of unwary minds from her Communion, by Miſſionaries, whoſe arts have ſince been detected by an ingenuous Pen. Yet after all ſhe triumphs, and lifts up her head in deſpight of her Foes; this is that Church of <hi>England</hi> that ſtood in the Gap, when Jeſuits, Prieſts, Mercenary Commiſſioners, Renegado Biſhops, and falſe Brethren ſtrove to ruine her, and now ſhe has eſcap'd the Storm, ſhall ſhe periſh in the Harbour? Has ſhe bravely re<g ref="char:EOLhyphen"/>ſiſted all the Bombs and Aſſaults of <hi>Rome,</hi> ſhall a <hi>Geneva</hi> Mine blow her up? Conſider this ſeriouſly, <hi>Tom;</hi> and then I am ſure you will be of my Opinion, that the Diſſenters had better peaceably enjoy their Liberty, than by fomenting Animoſities and Jealouſies, give an occaſion to the common Enemy to ſpoil her, and themſelves together; for though between themſelves they dif<g ref="char:EOLhyphen"/>fer in Circumſtantials, yet the word <hi>Heretick</hi> includes them both; the Popiſh rage burning as fiercely againſt <hi>Pinners</hi>-Hall, as againſt <hi>Lambeth</hi>-Chapel.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Verily I thought the Church of <hi>England,</hi> and the Church of <hi>Rome</hi> differ'd, no more than a Chopping-Bill does from a Hatchet.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>That's thy ignorance, <hi>Tom;</hi> were you to ſee the Pomp and Pageantry in the Worſhip of the one, and the decent gravity in the Divine Service of the other, you would quickly be of another Opinion; but of this at another opportunity; we've a quarter of an hour to ſpare, and therefore we'll talk of other Matters, for by this time I believe you are ſufficiently convinc'd, 'tis not the Deſſenters Intereſt to quarrel with the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why, truly, my eyes begin to be opened: But, what do you think of the Parliament now ſitting?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>No, <hi>Tom,</hi> you miſtake, 'tis a Convention.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>That's a hard word.</p>
+            </sp>
+            <pb n="18" facs="tcp:48646:10"/>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>'Tis the ſame thing in effect, only they cannot make or repeal Laws; the Kings withdrawing, and leaving the Kingdom in a kind of <hi>Inter-regnum;</hi> the Convention is to conſider what is to be done in order to the publick peace in this unheard-of Conjuncture.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I know you've a long reach; can't you gueſs what they will go about firſt? for I long to carry a little News down into the Country with me</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>As far as a gueſs goes <hi>Tom,</hi> I believe I may ſerve you; 'tis believed that one of their firſt Enquiries will be of the nature of the Kings leaving his people, and retiring into the Kingdom of a know Tyrant, which will occaſion a diſpute concerning the in<g ref="char:EOLhyphen"/>cumbent duty of a Prince, and the Allegiance of a Subject; a ſearch will likewiſe be made into that nice point, the birth of the Prince of <hi>Wales;</hi> which, if prov'd a Forgery, will add much to the luſture of the Houſe of <hi>Modena,</hi> and the Society of <hi>Jeſus;</hi> but if found a reality, the young Gentleman to be ſent for over, and Edu<g ref="char:EOLhyphen"/>cated in the Proteſtant Religion: A time will be likewiſe appointed for the calling of a Parliament, which 'tis believ'd will be in <hi>April</hi> next, in order to ſettle the Grievances of the Nation, and try the betrayers of their Country, who are now in cuſtody; theſe are the moſt probable Conjectures I can make of what will be done at the <hi>Convention.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>But d'ye think they won't proclaim a War againſt <hi>France?</hi> methinks I've ſuch an itching to kill a <hi>Monſieur</hi> or two.—</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>All in good time; they have things of a greater moment to conſider; but that haughty Gentleman, may know in time that his <hi>Bourdeaux</hi> Claret has not quite dampt the <hi>Engliſh</hi> Spirits, but there are a Generation of Men alive who dare make him a bold viſit.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>He talks of heading an Army next Spring of about 80000 Men; d'ye think 'tis true?</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Yes, By his Effigies ſtampt upon his Gold, that's his way of heading an Army; he has no other methods to take Towns, but by bribes and treachery.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I heard a report ſince I came to Town, that the Citizens have ſent the Prince 200000 Pound, that's more than half the Men in our Town are worth.</p>
+            </sp>
+            <pb n="19" facs="tcp:48646:10"/>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Yes, <hi>Tom,</hi> and are ready to lend him as much more if his occaſions require it; this Money is not given to Prieſts and Jeſuits, for erecting Monaſteries and making Proceſſions, but purely to be imployed for the good and ſafety of the Nation—You ſee, <hi>Tom,</hi> by the example of our unhappy Prince, how fatal it is for a King to retract from his Word and Coronation Oath; but why ſhould I wonder? when the Maxim of theirs, That no Faith is to be kept with Hereticks, was viſibly practis'd before our eyes; had he been true to thoſe who plac'd him on the Throne, he might ſtill have had <hi>Te Deum</hi> ſung at his Chapel without moleſtation; but when thoſe Vermin the Jeſuits crept into his boſome with their pernicious Morals, all Vows and Obligations were forgot, and rather than diſpleaſe his <hi>Ignatian</hi> friends, his own quiet, and his Subjects peace, muſt be ſacrific'd; but I fear I have already treſpaſs'd too much upon your patience.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>No, Sir, I could hear you till midnight, but I have outſtay'd my time, and therefore ask leave to bid you God b'w'y'.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Honeſt <hi>Tom,</hi> I wiſh I had more of thy Company, but if you are in haſte, Farewel.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
